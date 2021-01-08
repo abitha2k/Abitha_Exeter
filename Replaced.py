@@ -1,6 +1,6 @@
 import fileinput
 
-#save the code in the path ,where the text file is available
+#save the code in the path, where the text file is available
 text = "filename.txt"
 fields = {"about": "sur", "alone": "seul", "already": "dÃ©jÃ", "after": "aprÃ¨s", "birth": "naissance", "bless": "bÃ©nir"}
 
